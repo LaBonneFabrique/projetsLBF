@@ -1,4 +1,4 @@
-baseurl = "http://localhost:3000/"
+baseurl = "/"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "fr-fr"
